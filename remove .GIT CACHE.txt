@@ -1,0 +1,3 @@
+ls -a
+
+rm -rf .git (.git bisa saja berubah nama menjadi dengan SKRIP-OLD)
